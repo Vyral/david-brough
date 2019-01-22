@@ -4,7 +4,7 @@ excerpt: >-
   What’s the best way to boost your credit score? We’ll be discussing two great
   tips today.
 enclosure:
-pullquote: This is an example of a pull quote
+pullquote: 'Surprisingly enough, having a zero balance is not ideal.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -30,6 +30,6 @@ Without further ado, here are today’s tips:
 
 **1. Set up automatic payments for all recurring bills.** According to creditcards.com, about 35% of your credit is based upon your payment history. Having your bills paid automatically out of your account each month will save you a lot of time, help you avoid late fees, and build your credit all at the same time.
 
-**2. Pay attention to your credit limit.** Banks don’t look too kindly upon accounts with maxed out lines of credit. It makes you appear less responsible. Instead, experts recommend keeping your credit balance at or below 30%. Surprisingly enough, it’s actually preferable to have between 10% to 20% of your balance remaining, as a zero balance is not ideal.&nbsp;
+**2. Pay attention to your credit limit.** Banks don’t look too kindly upon accounts with maxed out lines of credit. It makes you appear less responsible. Instead, experts recommend keeping your credit balance at or below 30%. Surprisingly enough, it’s actually preferable to have between 10% to 20% of your balance remaining, as a zero balance is not ideal. 
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
