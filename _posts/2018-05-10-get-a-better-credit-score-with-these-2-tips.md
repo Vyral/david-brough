@@ -1,5 +1,5 @@
 ---
-youtube_code: SFFy_drFrZs
+youtube_code: spzlV-HQqNo
 excerpt: >-
   What’s the best way to boost your credit score? We’ll be discussing two great
   tips today.
