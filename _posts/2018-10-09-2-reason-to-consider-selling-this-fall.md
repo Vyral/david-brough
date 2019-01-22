@@ -11,8 +11,6 @@ layout: post
 title: 2 Reason to Consider Selling This Fall
 date: 2018-10-09 00:00:00
 tags:
-  - Market Update
-  - Real Estate
   - Home Seller Tips
 ---
 
