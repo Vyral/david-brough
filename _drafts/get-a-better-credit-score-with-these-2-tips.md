@@ -1,8 +1,8 @@
 ---
 youtube_code: SFFy_drFrZs
 excerpt: >-
-  Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse
-  pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.
+  What’s the best way to boost your credit score? We’ll be discussing two great
+  tips today.
 enclosure:
 pullquote: This is an example of a pull quote
 enclosure_type: video/mp4
@@ -17,3 +17,4 @@ tags:
   - Real Estate
   - Home Seller Tips
 ---
+
