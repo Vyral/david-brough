@@ -11,7 +11,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/credit-score-youtube.jpg
 layout: post
 title: Get a Better Credit Score With These 2 Tips
-date: 2018-05-10 00:00:00
+date: 2019-01-04 00:00:00
 tags:
   - Market Update
   - Real Estate
