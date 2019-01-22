@@ -7,7 +7,7 @@ enclosure:
 pullquote: 'Surprisingly enough, having a zero balance is not ideal.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/credit-score-youtube.jpg
 layout: post
 title: Get a Better Credit Score With These 2 Tips
