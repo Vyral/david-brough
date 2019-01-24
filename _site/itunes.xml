@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Anthony REALTORS - your professional Fort Wayne Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>David Brough</managingEditor>
-    <lastBuildDate>2019-01-21 15:12:07 -0600</lastBuildDate>
+    <lastBuildDate>2019-01-24 13:48:09 -0600</lastBuildDate>
     <media:copyright>David Brough</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fort Wayne, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,8 +25,8 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>Get a Better Credit Score With These 2 Tips</title>
+        <link>http://localhost:4000/get-a-better-credit-score-with-these-2-tips.html</link>
         
           <category>Market Update</category>
         
@@ -35,35 +35,70 @@
           <category>Home Seller Tips</category>
         
         <author>David Brough</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
+        <pubDate>2019-01-03 18:00:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Most of us would love to improve our credit scores, whether you’re already on the brink of hitting 850 (the highest possible score) or you’re struggling to break into the 700s.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Only one in every 200 people maintains an 850 credit score, but if you follow the two credit-boosting tips we’ve got for you today, you could soon count yourself among them. Even just getting to 750, though, will put you in the good graces of most lenders out there.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“Surprisingly enough, having a zero balance is not ideal.”
 
-“This is an example of a pull quote”
+Without further ado, here are today’s tips:
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+1. Set up automatic payments for all recurring bills. According to creditcards.com, about 35% of your credit is based upon your payment history. Having your bills paid automatically out of your account each month will save you a lot of time, help you avoid late fees, and build your credit all at the same time.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+2. Pay attention to your credit limit. Banks don’t look too kindly upon accounts with maxed out lines of credit. It makes you appear less responsible. Instead, experts recommend keeping your credit balance at or below 30%. Surprisingly enough, it’s actually preferable to have between 10% to 20% of your balance remaining, as a zero balance is not ideal. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>What’s the best way to boost your credit score? We’ll be discussing two great tips today.</itunes:subtitle>
         <itunes:author>David Brough</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>What’s the best way to boost your credit score? We’ll be discussing two great tips today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fort Wayne, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>Your Latest Fort Wayne Market Snapshot</title>
+        <link>http://localhost:4000/your-latest-fort-wayne-market-snapshot.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>David Brough</author>
+        <pubDate>2018-11-20 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+What’s the latest news from our Fort Wayne market? Inventory is shrinking, but home prices remain affordable. Here are a few key statistics comparing our current fall market to what we saw at this time last year. 
+
+First, there have been 450 fewer new listings that have come on the market compared to this time last year, which is a 4.7% decrease. The number of pending sales also decreased compared to this time last year, to the tune of 1.6%. Year to date, there have been 200 fewer closed sales compared to last year, which is a 3.1% decrease. The average sale price, meanwhile, is up 9.1%.
+
+“We’ve been in a seller’s market for the past two to three years, so we’re probably due for a slight correction.”
+
+Over the past two years, home values have appreciated 20%, which is pretty significant considering Fort Wayne has traditionally been known as a market with little-to-no appreciation. The most significant statistic of all, though, is 17%—that’s how much inventory dropped this past September compared to September 2017. Since we’re a smaller market, there aren’t a lot of homes to choose from anyway. 
+
+Overall, our market is undergoing a slight shift. Interest rates are at a seven-year high, and as prices become less affordable, fewer buyers will want to enter the market. At that point, inventory will increase and balance things out between buyers and sellers, which is a good thing. We’ve been in a seller’s market for the past two to three years, so we’re probably due for a slight correction. 
+
+If you have any more questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our market is still hot, but the numbers indicate that we’re undergoing a slight shift. Don’t worry—this is a good thing.</itunes:subtitle>
+        <itunes:author>David Brough</itunes:author>
+        <itunes:summary>Our market is still hot, but the numbers indicate that we’re undergoing a slight shift. Don’t worry—this is a good thing.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fort Wayne, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Live Discussion on Multiple-Offer Situations</title>
+        <link>http://localhost:4000/a-live-discussion-on-multiple-offer-situations.html</link>
         
           <category>Market Update</category>
         
@@ -72,45 +107,70 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
           <category>Home Seller Tips</category>
         
         <author>David Brough</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2018-10-22 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+To take a closer look at how to navigate multiple-offer situations when selling a home, I hosted an in-depth discussion about the best ways to handle the process. In this live-chat, you’ll find the answers to important questions that many sellers have.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+For your convenience, I’ve placed timestamps for each topic of discussion that we cover. Feel free to navigate to the section(s) you are most interested in viewing:
 
+(00:34)—In our current market, are we seeing a lot of multiple-offer situations?
 
-  list item
-  list item
-  list item
-  list item
-  list item
+(01:01)—From a buyer’s standpoint, is offering the most money the only way to win?
 
+(04:20)—How important is it to be pre-approved when bidding on a home?
 
+(05:20)—If you’re expecting multiple offers, what should you do before listing?
 
-  list item
-  list item
-  list item
-  list item
-  list item
+(06:43)—After receiving some offers, should you decide right away or wait?
 
+(08:07)—Are there ever times you shouldn’t take the highest offer?
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+(10:17)—How to reach me.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+I invite you to contact me if you’re looking to buy or sell, have any questions, or would simply like some information. I look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>I recently answered the biggest questions related to multiple-offer situations. Here are my answers.</itunes:subtitle>
         <itunes:author>David Brough</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>I recently answered the biggest questions related to multiple-offer situations. Here are my answers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fort Wayne, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2 Reason to Consider Selling This Fall</title>
+        <link>http://localhost:4000/2-reason-to-consider-selling-this-fall.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>David Brough</author>
+        <pubDate>2018-10-08 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Sometimes it pays to go against the crowd. While a lot of people think the spring is the best time to put their home on the market, that’s not necessarily true. In Fort Wayne, September and October are great months for real estate and there are three reasons why:
+
+1. There’s less competition. Since a lot of homeowners are waiting for the spring, the fall is a great time for you to get your home on the market and quite possibly be the only one for sale in the neighborhood. Less competition is good for sellers and gives them much more leverage. If a buyer is looking for a home in your area or price range, that puts you in a very strong negotiating position.
+
+“The fall is a great time to make a move up.”
+
+2. Buyers are more serious. A lot of times, these people have more of a timeline and want to get into a house by the holiday season. This means they will be motivated to get a deal done. There will be fewer buyers total, but the ones out there will be much more serious.
+
+3. Your listing photos will look fantastic. While the grass is still green and the leaves are changing colors, getting photos taken for your home’s online listing during this time will be your best pictures. Your first showing is online, so you can make it as great as possible.
+
+If you have any questions for me or you’re on the fence about selling this fall, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Fall is an underrated time for home sellers. Here are a few reasons why.</itunes:subtitle>
+        <itunes:author>David Brough</itunes:author>
+        <itunes:summary>Fall is an underrated time for home sellers. Here are a few reasons why.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Fort Wayne, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
