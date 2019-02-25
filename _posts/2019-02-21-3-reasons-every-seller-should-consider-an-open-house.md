@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons Every Seller Should Consider an Open House
-date: 2019-02-21 19:55:39
+date: 2019-02-21 19:55:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/open-houses-youtube.jpg
-youtube_code: icCdAm4yaRY
+youtube_code: rPg0HLGKTqg
 ---
 
 {% include youtube.html %}
