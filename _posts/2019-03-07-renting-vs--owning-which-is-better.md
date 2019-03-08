@@ -24,7 +24,7 @@ Many long-time renters are now starting to consider whether it’s a good time t
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
-00:47 — What should Fort Wayne residents consider buying a home over renting one?
+00:47 — Why should Fort Wayne residents consider buying a home over renting one?
 
 04:33 — What are the drawbacks of renting?
 
@@ -34,6 +34,6 @@ Many long-time renters are now starting to consider whether it’s a good time t
 
 11:02 — How can buyers and sellers contact Anthony Realtors?
 
-If you have any other questions or would like more information, feel free to give us a call, send us an email, or visit [https://www.fortwaynehomehub.com/first-time-buyers/](https://www.fortwaynehomehub.com/first-time-buyers/){: target="_blank"}.&nbsp;
+If you have any other questions or would like more information, feel free to give us a call, send us an email, or visit [www.fortwaynehomehub.com/first-time-buyers/](https://www.fortwaynehomehub.com/first-time-buyers/){: target="_blank"}.&nbsp;
 
 We look forward to hearing from you soon.
