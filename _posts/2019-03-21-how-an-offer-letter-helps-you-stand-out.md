@@ -19,9 +19,9 @@ youtube_code: BNsiZs-irv0
 
 {% include youtube.html %}
 
-Today I’m going to share one secret with you to help get your offer accepted when going up against more than one buyer. As we head into the spring selling market, we’re going to see more and more multiple-offer situations occur.&nbsp;
+As we head into the spring selling market, we’re going to see more and more multiple-offer situations occur, so today I’ll share a secret that will help get your offer accepted when competing against more than one buyer.&nbsp;
 
-**One way to stand out is by sending in a buyer offer letter.** It’s a short, one-page document that appeals to the seller from an emotional standpoint. When they receive multiple offers, all they see is numbers and names. Including this letter allows you to stand out from the pack and make a personal connection with the buyer. Your offer will include a story about you, your family, and why you love the house so much.
+**One way to stand out is by sending in a buyer offer letter.** It’s a short, one-page document that appeals to the seller from an emotional standpoint. When they receive multiple offers, all they see is numbers and names. Including this letter allows you to stand out from the pack and make a personal connection with the seller. Your offer will include a story about you, your family, and why you love the house so much.
 
 {% include pullquote.html %}
 
