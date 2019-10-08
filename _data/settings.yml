@@ -49,8 +49,6 @@ CTAs:
   first_CTA_URL: 'https://www.fortwaynehomehub.com/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.fortwaynehomehub.com/'
-  third_CTA_text: Agent Launch
-  third_CTA_URL: '/agent-launch/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: What’s Your Fort Wayne Home Worth?
